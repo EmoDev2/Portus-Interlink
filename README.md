@@ -50,6 +50,11 @@ Planned improvements
 - Dark mode and visual customization
 - Folder history and session memory
 
-Author
+Author: BUXGOODLESS (Gabriel Plasencia Gregorio) Emodev
 
 This project was created to simplify content sharing and hosting from your own computer. Designed for quick use and full control, without relying on external services. If you find it useful, feel free to share it, improve it, or suggest new features.
+
+`cmd
+git clone https://github.com/tu-usuario/servidor-local-ui.git
+cd servidor-local-ui
+`
