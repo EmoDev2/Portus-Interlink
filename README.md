@@ -58,5 +58,5 @@ Remember you can use this tool for localhost Minecraft servers, file share,publi
 
  Remember you can use no-ip to get a free domain.your ip updates everytime
 ```
-Git clone etc
+git clone https://github.com/EmoDev2/portus-interlink.git
 ```
