@@ -54,6 +54,9 @@ Author: BUXGOODLESS (Gabriel Plasencia Gregorio) Emodev
 
 This project was created to simplify content sharing and hosting from your own computer. Designed for quick use and full control, without relying on external services. If you find it useful, feel free to share it, improve it, or suggest new features.
 
+Remember you can use this tool for localhost Minecraft servers, file share,public website with localhost with **Portus** and even more!
+
+ Remember you can use no-ip to get a free domain.your ip updates everytime
 ```
 Git clone etc
 ```
