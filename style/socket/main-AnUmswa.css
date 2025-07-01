@@ -1,0 +1,91 @@
+/* Fuente base y colores clásicos */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, sans-serif;
+    background-color: #dcdcdc;
+    color: #000;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: linear-gradient(to right, #3a6ea5, #2f5d8a);
+    color: white;
+    padding: 1.5rem;
+    text-align: center;
+    border-bottom: 3px solid #1e4171;
+    box-shadow: inset 0 -1px 0 #1e4171;
+}
+
+h1 {
+    color: #d2deea;
+    margin-bottom: 0.5rem;
+}
+
+h2 {
+    color: #5092d4;
+    margin-bottom: 0.5rem;
+}
+
+
+p,
+li {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+section {
+    padding: 2rem;
+    max-width: 900px;
+    margin: auto;
+    background-color: #f0f0f0;
+    border: 1px solid #bbb;
+    box-shadow: inset 0 0 4px #ccc;
+}
+
+.features,
+.benefits {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 1rem;
+}
+
+.card {
+    background-color: #ffffff;
+    border: 1px solid #aaa;
+    border-radius: 4px;
+    padding: 1rem;
+    flex: 1 1 30%;
+    box-shadow: inset 0 0 3px #ddd;
+    min-width: 250px;
+}
+
+a.button {
+    background-color: #3a6ea5;
+    color: white;
+    padding: 0.75rem 1.5rem;
+    border-radius: 3px;
+    text-decoration: none;
+    display: inline-block;
+    border: 1px solid #2f5d8a;
+    box-shadow: 1px 1px 2px #888;
+}
+
+a.button:hover {
+    background-color: #2f5d8a;
+}
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #eaeaea;
+    color: #444;
+    border-top: 2px solid #bbb;
+}
+
+#source {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+}
